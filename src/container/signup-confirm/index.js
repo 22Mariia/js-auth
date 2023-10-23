@@ -11,7 +11,7 @@ class SignupConfirmForm extends Form {
     CODE: 'code',
   }
   FIELD_ERROR = {
-    IS_EMPTY: 'TЦе поле не можна залишати порожнім',
+    IS_EMPTY: 'Це поле не можна залишати порожнім',
     IS_BIG: 'Надто довго',
   }
 
